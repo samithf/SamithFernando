@@ -1,5 +1,4 @@
 # Hi, I'm Samith 👋
 
-<strong>I am a Senior Full-stack Engineer</strong>
-
-A full-stack engineer with years of experience, I create amazing websites and web apps to make the internet a better place.
+Fullstack javascript developer with over 10 years of experience in developing high-
+quality, user-friendly, and scalable products regardless of the stack.
